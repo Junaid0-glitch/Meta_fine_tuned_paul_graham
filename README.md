@@ -20,6 +20,7 @@ This model is a fine-tuned version of Meta's LLaMA 3 8B Instruct, trained specif
 - ✅ Special attention was given to preserving paragraph structure and reflective tone
 
 ---
+![Screenshot 2025-06-29 215001](https://github.com/user-attachments/assets/e5c87256-3124-44fc-9d6b-c8da6b365d24)
 
 ## 🛠️ How to Use
 
@@ -43,4 +44,5 @@ _ = model.generate(
     use_cache=True
 )
 
-![Screenshot 2025-06-29 215001](https://github.com/user-attachments/assets/e5c87256-3124-44fc-9d6b-c8da6b365d24)
+
+
