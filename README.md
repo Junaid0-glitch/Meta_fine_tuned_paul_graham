@@ -42,3 +42,5 @@ _ = model.generate(
     max_new_tokens=500,
     use_cache=True
 )
+
+![Screenshot 2025-06-29 215001](https://github.com/user-attachments/assets/e5c87256-3124-44fc-9d6b-c8da6b365d24)
